@@ -24,8 +24,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="![2021-05-29 11_55_16-Window](https://user-images.githubusercontent.com/30539117/120078357-c0e67480-c074-11eb-9038-44f98ea4c80e.png)" alt="Logo" width="80" height="80">
+ height="80">
   </a>
 
   <h3 align="center">Super Mario Bros Clone (Plum's World)</h3>
