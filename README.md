@@ -24,7 +24,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
- height="80">
   </a>
 
   <h3 align="center">Super Mario Bros Clone (Plum's World)</h3>
