@@ -25,7 +25,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="SuperMarioBrosOne/android/res/drawable-xhpi/ic_launcher.png" alt="Logo" width="80" height="80">
+    <img src="![2021-05-29 11_55_16-Window](https://user-images.githubusercontent.com/30539117/120078357-c0e67480-c074-11eb-9038-44f98ea4c80e.png)" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Super Mario Bros Clone (Plum's World)</h3>
@@ -67,12 +67,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-I wanted to learn more about Java game development frameworks, so I followed a tutorial on how to make your own custom mario levels. 
+I wanted to learn more about Java game development frameworks, so I followed a tutorial on how to make your own custom mario levels. Custom made are the levels by using
+different sprites by using a 2D tile editor. 
 
 ### Built With
 
 * [Android Studio](https://developer.android.com/studio)
 * [libGDX](https://libgdx.com/)
+* [box2d](https://box2d.org/)
+* [Tiled](https://www.mapeditor.org/)
 
 
 <!-- GETTING STARTED -->
